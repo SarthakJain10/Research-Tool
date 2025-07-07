@@ -58,6 +58,7 @@ Replace `.py` with the filename containing your Streamlit code.
 | `requirements.txt`        | Python dependencies                          |
 | `.gitignore`              | Files and folders to exclude from Git        |
 | `.streamlit/secrets.toml` | API keys and secrets (not committed)         |
+| `template.json`           | Prompt template for LangChain (customizable) |
 
 ## Customization
 
